@@ -102,7 +102,7 @@ main {
 
 
 ul {
-	list-style-image: url('images/bulletrecord.gif');
+	/*list-style-image: url('images/bulletrecord.gif');*/
 	margin: 2px 0px 5px 0px;
 }
 
